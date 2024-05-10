@@ -1,5 +1,4 @@
-# 💫 About Me:
-Full Stack Development
+# Full Stack Developer
 
 
 # 💻 Tech Stack:
